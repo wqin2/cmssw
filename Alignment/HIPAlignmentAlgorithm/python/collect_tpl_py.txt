@@ -26,8 +26,8 @@ process.AlignmentProducer.checkDbAlignmentValidity= False
 #            '1',
 #            '246978',
 #            '256715'),
-#    selector = cms.vstring( 'TrackerTPBModule,111111',
-#                            'TrackerTPEModule,111111')
+#    selector = cms.vstring( 'TrackerP1PXBModule,111111',
+#                            'TrackerP1PXECModule,111111')
 #        )
 #    ]
 
